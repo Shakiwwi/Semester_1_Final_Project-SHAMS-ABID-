@@ -2,7 +2,7 @@ YOU'RE IT! - by Shams Abid — README
 
 
 
-1.Concept
+ 1.Concept
 
 YOU'RE IT!   a 2-player tag game where Blue(WASD) and Red(Arrows) move around an obstacle-filled arena. One player starts as "IT" (outlined yellow) and must chase and tag the other player.
 
