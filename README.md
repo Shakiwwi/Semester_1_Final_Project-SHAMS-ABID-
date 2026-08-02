@@ -14,6 +14,7 @@ There is also a hidden shortcut near one edge of the map that lets a player brie
 
 
 
+
 2. How to Run the Game
 
 Requirements:
@@ -27,6 +28,7 @@ Place tag.py, countdown_beep.wav, and go.wav in the same folder.
 Open a terminal in that folder and run:
 python joy.py
 Press SPACE at the title screen to start. After the countdown, Blue starts as IT.
+
 
 
 
